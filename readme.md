@@ -31,9 +31,9 @@ A large company Zomboville is facing a lot of Attrition off-late. There HR depar
   - Human Resources
 
 
-![Dashboard](Dashboard 1.png)
-
-
+<p align="center">
+  <img src="Dashboard 1.png" alt="Dashboard" />
+</p>
 
 
 
